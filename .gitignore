@@ -5,6 +5,7 @@
 output*
 instant_test_output
 inference_test_output
+/VLPart/detectron2
 
 
 *.png
