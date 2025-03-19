@@ -1,0 +1,6 @@
+python demo/demo.py --config-file configs/pascal_part/r50_pascalpart.yaml \
+  --input /mnt/d/Github/VLPart/CUB-200-2011/images/021.Eastern_Towhee/Eastern_Towhee_0048_22557.jpg /mnt/d/Github/VLPart/CUB-200-2011/images/021.Eastern_Towhee/Eastern_Towhee_0079_22690.jpg \
+  --output output_image \
+  --vocabulary pascal_part \
+  --confidence-threshold 0.7 \
+  --opts MODEL.WEIGHTS /mnt/d/Github/VLPart/checkpoints/r50_pascalpart.pth VIS.BOX False
