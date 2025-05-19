@@ -24,7 +24,7 @@
 168,168,True
 28,28,True
 35,35,True
-7,5,False
+7,7,True
 115,115,True
 97,97,True
 57,57,True
@@ -50,7 +50,7 @@
 108,108,True
 10,8,False
 26,25,False
-151,170,False
+151,150,False
 125,122,False
 184,184,True
 63,58,False
@@ -112,7 +112,7 @@
 58,58,True
 96,96,True
 48,48,True
-45,86,False
+45,45,True
 135,135,True
 18,18,True
 141,141,True
@@ -194,7 +194,7 @@
 59,62,False
 121,121,True
 88,88,True
-154,152,False
+154,154,True
 166,179,False
 70,70,True
 77,77,True
@@ -237,7 +237,7 @@
 53,53,True
 119,119,True
 11,11,True
-21,21,True
+21,104,False
 137,137,True
 45,45,True
 85,85,True
@@ -250,7 +250,7 @@
 81,81,True
 86,86,True
 71,70,False
-164,156,False
+164,164,True
 88,88,True
 115,115,True
 67,68,False
@@ -321,7 +321,7 @@
 0,0,True
 192,192,True
 183,183,True
-97,94,False
+97,97,True
 68,66,False
 49,49,True
 27,27,True
@@ -342,7 +342,7 @@
 128,128,True
 40,40,True
 146,146,True
-91,91,True
+91,104,False
 122,122,True
 158,158,True
 74,74,True
@@ -368,7 +368,7 @@
 189,189,True
 120,120,True
 98,98,True
-21,104,False
+21,21,True
 54,54,True
 184,184,True
 65,65,True
@@ -403,7 +403,7 @@
 156,156,True
 18,18,True
 93,93,True
-36,36,True
+36,42,False
 195,195,True
 199,199,True
 173,173,True
@@ -464,7 +464,7 @@
 141,141,True
 98,177,False
 40,40,True
-22,85,False
+22,24,False
 180,180,True
 170,170,True
 83,83,True
@@ -518,7 +518,7 @@
 178,172,False
 158,158,True
 69,69,True
-161,171,False
+161,161,True
 6,6,True
 44,44,True
 195,195,True
@@ -546,7 +546,7 @@
 107,107,True
 58,59,False
 124,125,False
-118,120,False
+118,114,False
 161,161,True
 153,154,False
 13,53,False
@@ -579,7 +579,7 @@
 80,80,True
 27,27,True
 129,129,True
-71,71,True
+71,0,False
 47,47,True
 127,147,False
 170,170,True
@@ -609,7 +609,7 @@
 190,190,True
 158,158,True
 29,28,False
-127,128,False
+127,125,False
 35,35,True
 144,144,True
 133,133,True
@@ -622,7 +622,7 @@
 97,97,True
 106,106,True
 47,47,True
-171,172,False
+171,171,True
 106,106,True
 78,78,True
 38,38,True
@@ -646,7 +646,7 @@
 18,18,True
 14,14,True
 10,10,True
-160,176,False
+160,160,True
 58,59,False
 45,45,True
 74,74,True
@@ -709,7 +709,7 @@
 113,113,True
 143,140,False
 100,100,True
-29,106,False
+29,28,False
 110,110,True
 159,159,True
 15,15,True
@@ -726,7 +726,7 @@
 166,166,True
 199,199,True
 97,97,True
-6,6,True
+6,7,False
 189,191,False
 80,80,True
 114,114,True
@@ -772,7 +772,7 @@
 126,126,True
 159,159,True
 91,91,True
-22,22,True
+22,23,False
 147,147,True
 184,184,True
 93,93,True
@@ -884,7 +884,7 @@
 67,67,True
 186,186,True
 70,71,False
-70,71,False
+70,44,False
 185,185,True
 77,77,True
 78,78,True
@@ -904,9 +904,9 @@
 72,72,True
 151,151,True
 16,16,True
-79,78,False
+79,79,True
 78,78,True
-66,68,False
+66,67,False
 20,20,True
 170,175,False
 54,54,True
@@ -976,7 +976,7 @@
 147,147,True
 181,181,True
 102,41,False
-144,144,True
+144,142,False
 58,65,False
 53,53,True
 65,58,False
