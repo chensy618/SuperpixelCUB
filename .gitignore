@@ -1,6 +1,6 @@
 /CUB_200_data
 *.tgz
-
+*.pth
 # output_dir
 output*
 instant_test_output
@@ -27,7 +27,6 @@ dist/
 wheels/
 
 # pytorch/python/numpy formats
-*.pth
 *.pkl
 *.ts
 model_ts*.txt

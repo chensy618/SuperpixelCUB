@@ -43,15 +43,30 @@ pip install -r clean_requirements_updated.txt
 
 ---
 
+## 🔽 4. Download `.pth` Files
+
+You will need the following pre-trained checkpoints:
+
+1. **VLPart - Pascal Part AP / AP50**
+   - [`r50_pascalpart.pth`](https://github.com/facebookresearch/VLPart/blob/main/MODEL_ZOO.md)
+
+2. **Prototype Representations**
+   - [`clip-vitp16_5_prototypes_representation.pth`](https://drive.google.com/drive/folders/1KmM5eDKc-7xBI0FSni2UfWP0j_kdMNyU?usp=drive_link)
+   - [`dinov2_vitb14_5_prototypes_representation.pth`](https://drive.google.com/drive/folders/1KmM5eDKc-7xBI0FSni2UfWP0j_kdMNyU?usp=drive_link)
+
+> 💡 Place these `.pth` files under `./checkpoints/` or update paths in the scripts accordingly.
+
+---
+
 ## 📈 Main Results
 
 The primary experiments and visualizations can be found in the following Jupyter Notebooks:
 
 - [`KCConCUB_update.ipynb`](KCConCUB_update.ipynb)  
-  → Displays keypoint discovery, semantic alignment, and classification accuracy.
+  → Displays classification accuracy.
 
 - [`SuperpixelInvestigationCUB_vlpart.ipynb`](SuperpixelInvestigationCUB_vlpart.ipynb)  
-  → Explores the relationship between discovered prototypes and superpixel segments.
+  → Explores superpixel and vlpart segments, keypoint discovery and matching and semantic alignment.
 
 - Note: Since the notebook file is large, please download it first to view the results locally.
 ---
@@ -77,3 +92,6 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 
 ---
 
+🙏 Acknowledgements
+This project is inspired by and builds upon ideas from [VLPart](https://github.com/facebookresearch/VLPart) by Facebook Research.
+We thank the authors for making their work publicly available.
