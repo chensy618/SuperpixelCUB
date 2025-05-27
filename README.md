@@ -1,6 +1,6 @@
 # KLCs - Keypoint Labeling Classifiers
 
-This repository contains code and experiments for automatic keypoint description and identification for ViT-based models by using vision-language models, aiming to enhancing the explainability and interpretability in fine-grained image classification tasks, The approach is evaluated on the [CUB-200-2011](https://www.kaggle.com/datasets/wenewone/cub2002011) dataset.
+This repository contains code and experiments for automatic keypoint description and identification for ViT-based models by using vision-language models, aiming to enhancing the explainability and interpretability in fine-grained image classification tasks. The approach is evaluated on the [CUB-200-2011](https://www.kaggle.com/datasets/wenewone/cub2002011) dataset.
 
 
 ## 📁 Dataset
@@ -11,7 +11,7 @@ Before running the code, download the **CUB-200-2011** dataset from Kaggle:
 
 After downloading, extract the dataset and place it in a known location such as: 
 ```
-./data/CUB_200_2011/
+./CUB_200_data/CUB_200_2011/
 ```
 > 💡 Make sure to update the paths in the notebooks or scripts based on your local setup.
 
@@ -24,7 +24,7 @@ We recommend using a virtual environment for dependency management.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/VLPart.git
+git clone https://github.com/chensy618/SuperpixelCUB.git
 cd VLPart
 ```
 
@@ -53,6 +53,7 @@ The primary experiments and visualizations can be found in the following Jupyter
 - [`SuperpixelInvestigationCUB_vlpart.ipynb`](SuperpixelInvestigationCUB_vlpart.ipynb)  
   → Explores the relationship between discovered prototypes and superpixel segments.
 
+- Note: Since the notebook file is large, please download it first to view the results locally.
 ---
 
 ## ⚠️ Execution Notes
@@ -71,7 +72,7 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 
 - No training required on CUB for strong keypoint and semantic alignment.
 - Achieves **82.7% classification accuracy with only 3 prototypes per class**.
-- Supports both **CNN** and **ViT** feature extractors.
+- Supports **ViT-based** feature extractors.
 -  Provides interpretable keypoint visualizations that help explain the model’s decision-making process.
 
 ---
