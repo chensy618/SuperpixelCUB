@@ -93,5 +93,6 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 ---
 
 🙏 Acknowledgements
+
 This project is inspired by and builds upon ideas from [VLPart](https://github.com/facebookresearch/VLPart) by Facebook Research.
 We thank the authors for making their work publicly available.
