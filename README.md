@@ -88,11 +88,11 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 - No training required on CUB for strong keypoint and semantic alignment.
 - Achieves **82.7% classification accuracy with only 3 prototypes per class**.
 - Supports **ViT-based** feature extractors.
--  Provides interpretable keypoint visualizations that help explain the model’s decision-making process.
+- Provides interpretable keypoint visualizations that help explain the model’s decision-making process for object recognition and classification.
 
 ---
 
 🙏 Acknowledgements
 
-This project is inspired by and builds upon ideas from [VLPart](https://github.com/facebookresearch/VLPart) by Facebook Research.
+This project leverages [VLPart](https://github.com/facebookresearch/VLPart) by Facebook Research for semantic segmentation.
 We thank the authors for making their work publicly available.
