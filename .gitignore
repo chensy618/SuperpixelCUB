@@ -8,9 +8,10 @@ inference_test_output
 /VLPart/detectron2
 
 
+*.jpg
 *.png
 *.diff
-*.jpg
+
 !/projects/DensePose/doc/images/*.jpg
 
 # compilation and distribution
