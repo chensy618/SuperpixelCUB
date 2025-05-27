@@ -88,9 +88,8 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 
 ## ✨ Highlights
 
-- No training required on CUB for strong keypoint and semantic alignment.
+- No training is required on CUB to achieve strong keypoint and semantic alignment, turning ViT-based models into Self-Explainable Models(SEMs).
 - Achieves **82.7% classification accuracy with only 3 prototypes per class**.
-- Supports **ViT-based** feature extractors.
 - Provides interpretable keypoint visualizations that help explain the model’s decision-making process for object recognition and classification.
 
 ---
