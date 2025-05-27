@@ -95,4 +95,5 @@ These are usually caused by incorrect file paths. Make sure all paths reflect yo
 🙏 Acknowledgements
 
 This project leverages [VLPart](https://github.com/facebookresearch/VLPart) by Facebook Research for semantic segmentation.
+
 We thank the authors for making their work publicly available.
