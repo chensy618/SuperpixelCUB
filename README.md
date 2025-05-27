@@ -70,7 +70,8 @@ The primary experiments and visualizations can be found in the following Jupyter
 
 - Note: Since the notebook file is large, please download it first to view the results locally.
 
-💡 Alternatively, check out the generated PDF version of the notebook [SuperpixelInvestigationCUB_vlpart.pdf](SuperpixelInvestigationCUB_vlpart.pdf) and [KCConCUB_update](KCConCUB_update.pdf).
+- 💡Alternatively, check out the generated PDF version of the notebook [SuperpixelInvestigationCUB_vlpart.pdf](SuperpixelInvestigationCUB_vlpart.pdf) and [KCConCUB_update](KCConCUB_update.pdf).
+
 ---
 
 ## ⚠️ Execution Notes
