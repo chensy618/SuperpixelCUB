@@ -54,3 +54,6 @@ _darcs
 #/models
 /snippet
 /matching_keypoints
+/matching_keypoints_xai_update
+*.pdf
+.claude
